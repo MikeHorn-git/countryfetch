@@ -1,13 +1,17 @@
 # countryfetch
 A command-line country information tool written in Python3
+
 Fast & simple script with countryinfo at his backend.
 
 ![countryfetch](https://github.com/MikeHorn-git/countryfetch/assets/123373126/bead4be9-a721-45ae-bd0e-5935d5455089)
 
 # Installation
 pip install countryinfo
+
 git clone https://github.com/MikeHorn-git/countryfetch.git
+
 cd countryfetch
+
 chmod +x countryfetch
 
 # Usage
