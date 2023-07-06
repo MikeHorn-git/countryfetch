@@ -16,11 +16,15 @@ chmod +x countryfetch
 
 # Usage
 Usage: ./countryfetch [COUNTRY]
+
 The [COUNTRY] argument take an Alpha-2 code, a single word, or a multiple word between quotations marks.
+
 Alpha-2 Code: ./countryfetch io
+
 Single: ./countryfetch palau
+
 Multiple: ./countryfetch 'french polynesia'
 
 # Credits
-neofetch: https://github.com/dylanaraps/neofetch
+neofetch: https://github.com/dylanaraps/neofetch |
 countryinfo: https://github.com/porimol/countryinfo
