@@ -37,11 +37,12 @@ def error():
         return False
 
 def help():
-    print("Usage: ./countryfetch [COUNTRY]")
+    print("Usage: countryfetch [COUNTRY]")
     print("The [COUNTRY] argument take an Alpha-2 code, a single word, or a multiple word between quotations marks.")
-    print("Alpha-2 Code: ./countryfetch io")
-    print("Single: ./countryfetch palau")
-    print("Multiple: ./countryfetch \'french polynesia\'")
+    print("Exemples:")
+    print("* Alpha-2 Code: countryfetch io")
+    print("* Single: countryfetch palau")
+    print("* Multiple: countryfetch \'french polynesia\'")
 
 def main():
     if error() == False:
