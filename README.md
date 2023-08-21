@@ -13,6 +13,7 @@ chmod +x countryfetch
 
 # Usage
 countryfetch [COUNTRY]
+
 The [COUNTRY] argument take an Alpha-2 code, a single word, or a multiple word between quotations marks.
 
 Exemples :
@@ -21,5 +22,5 @@ Exemples :
 * Multiple: countryfetch 'french polynesia'
 
 # Credits
-[Countryinfo](https://github.com/porimol/countryinfo)
-[Neofetch](https://github.com/dylanaraps/neofetch)
+* [Countryinfo](https://github.com/porimol/countryinfo)
+* [Neofetch](https://github.com/dylanaraps/neofetch)
