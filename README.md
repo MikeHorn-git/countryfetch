@@ -1,5 +1,4 @@
 # Countryfetch
-Fast & simple script with countryinfo at his backend.
 
 ![countryfetch](https://github.com/MikeHorn-git/countryfetch/assets/123373126/bead4be9-a721-45ae-bd0e-5935d5455089)
 
